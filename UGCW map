@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#171616",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0f0f0f",
+        "fill-opacity": 0.5,
+        "name": "Center of Devistation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.1875,
+              57.326521225217064
+            ],
+            [
+              -45.3515625,
+              45.089035564831036
+            ],
+            [
+              -30.937499999999996,
+              36.31512514748051
+            ],
+            [
+              -21.4453125,
+              45.583289756006316
+            ],
+            [
+              -21.4453125,
+              57.51582286553883
+            ],
+            [
+              -42.1875,
+              57.326521225217064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.6953125,
+          47.27922900257082
+        ]
+      }
+    }
+  ]
+}
